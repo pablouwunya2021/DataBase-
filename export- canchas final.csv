@@ -1,0 +1,13 @@
+﻿n
+"(:Cancha {tipo: ""Sintética"",ubicacion: ""Ubicación 1"",precio_por_hora: 50,nombre: ""Cancha 1""})"
+"(:Cancha {tipo: ""Sintética"",ubicacion: ""Ubicación 2"",precio_por_hora: 60,nombre: ""Cancha 2""})"
+"(:Cancha {tipo: ""Sintética"",ubicacion: ""Ubicación 3"",precio_por_hora: 55,nombre: ""Cancha 3""})"
+"(:Cliente {telefono: ""123456789"",nombre: ""Cliente 1"",email: ""cliente1@example.com""})"
+"(:Cliente {telefono: ""987654321"",nombre: ""Cliente 2"",email: ""cliente2@example.com""})"
+"(:Cliente {telefono: ""456123789"",nombre: ""Cliente 3"",email: ""cliente3@example.com""})"
+"(:Cancha {tipo: ""Sintética"",ubicacion: ""Ubicación 1"",precio_por_hora: 50,nombre: ""Cancha 1""})"
+"(:Cancha {tipo: ""Sintética"",ubicacion: ""Ubicación 2"",precio_por_hora: 60,nombre: ""Cancha 2""})"
+"(:Cancha {tipo: ""Sintética"",ubicacion: ""Ubicación 3"",precio_por_hora: 55,nombre: ""Cancha 3""})"
+"(:Cliente {telefono: ""123456789"",nombre: ""Cliente 1"",email: ""cliente1@example.com""})"
+"(:Cliente {telefono: ""987654321"",nombre: ""Cliente 2"",email: ""cliente2@example.com""})"
+"(:Cliente {telefono: ""456123789"",nombre: ""Cliente 3"",email: ""cliente3@example.com""})"
